@@ -28,9 +28,10 @@
 ### Languages and Tools
 <p>
   <!-- Stack principal -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/tableau.svg"
-       height="40" alt="Tableau"/
+  
   <img src="https://icongr.am/devicon/amazonwebservices-original.svg"       height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/tableau.svg"
+       height="40" alt="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"               height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"         height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"       height="40" />

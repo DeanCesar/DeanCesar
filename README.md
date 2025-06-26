@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>A passionate about statistics and programming</em>
+  <em>Passionate about statistics and programming.</em>
 </p>
 
 ---
